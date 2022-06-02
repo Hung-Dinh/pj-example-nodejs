@@ -1,0 +1,1 @@
+dung pm2 để chạy nodejs 
